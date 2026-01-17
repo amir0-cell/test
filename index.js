@@ -1,5 +1,5 @@
-const batt = 223;
-const batt = 327;
+const bttt = 223;
+const bttt = 327;
 console.log(battt);
 const password = "23tsagww";
 
