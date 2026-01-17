@@ -1,1 +1,1 @@
-cosnt bil = 3000;
+cosnt payment = 45000;
