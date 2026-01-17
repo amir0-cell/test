@@ -1,1 +1,1 @@
-cosnt payment = 45000;
+cosnt ball = 456;
