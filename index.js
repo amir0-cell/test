@@ -1,4 +1,1 @@
-let a = 12;
-
-const b = 23;
-const b = 42;
+varr a = 23;
